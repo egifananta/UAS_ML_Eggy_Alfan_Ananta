@@ -117,12 +117,13 @@ Oleh karena itu, **R² ≈ 0.40 dengan MAE ±6 tahun sudah termasuk wajar dan re
 
    Drive Saya/
 ├── ML/
-│   ├── midterm-regresi-dataset.csv        # Dataset (515,345 lagu)
-│   ├── improved_music_model.h5            # Model trained
-│   └── improved_predictions.csv           # Hasil prediksi
-│   
-└── Colab Notebooks/            
-    └── Music_Year_Prediction_Neural_Network.ipynb
+│   ├── midterm-regresi-dataset.csv      # Dataset (515,345 lagu)
+│   ├── improved_music_model.h5          # Model trained
+│   └── improved_predictions.csv         # Hasil prediksi
+│
+└── Colab Notebooks/
+    └── UAS_2.ipynb
+
 3. Jalankan cell satu per satu:
     - Notebook disusun secara pipeline end-to-end
 
