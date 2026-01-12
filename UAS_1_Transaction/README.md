@@ -121,9 +121,12 @@ text
 - Setelah semua selesai, file submission.csv dapat diunduh dari Google Drive.
 
 5. Kesimpulan Singkat
-Telah dibangun pipeline end-to-end untuk fraud detection yang mencakup memory optimization, preprocessing, feature engineering, handling imbalance, training DNN dengan focal loss, evaluasi metrik utama, dan pembuatan file submission.
+Telah dibangun pipeline end-to-end untuk fraud detection yang mencakup memory optimization, preprocessing,
+feature engineering, handling imbalance, training DNN dengan focal loss, evaluasi metrik utama, dan pembuatan file submission.
 
-Model mencapai ROC-AUC ≈ 0.76 dengan recall fraud ≈ 43%, yang menunjukkan model cukup sensitif terhadap transaksi penipuan meskipun precision masih rendah (trade-off yang umum pada sistem pendeteksi fraud). Seluruh proses dirancang agar stabil di Google Colab gratis (RAM 12GB), dengan semua artefak (model, scaler, threshold, fitur, dan submission) tersimpan rapi di Google Drive sehingga mudah dievaluasi maupun digunakan kembali.
+Model mencapai ROC-AUC ≈ 0.76 dengan recall fraud ≈ 43%, yang menunjukkan model cukup sensitif terhadap transaksi penipuan
+meskipun precision masih rendah (trade-off yang umum pada sistem pendeteksi fraud). Seluruh proses dirancang agar stabil di Google Colab gratis (RAM 12GB),
+dengan semua artefak (model, scaler, threshold, fitur, dan submission) tersimpan rapi di Google Drive sehingga mudah dievaluasi maupun digunakan kembali.
 
 6. Identitas
 Nama : Eggy Alfan Ananta
