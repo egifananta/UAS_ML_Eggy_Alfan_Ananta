@@ -115,7 +115,7 @@ Oleh karena itu, **R² ≈ 0.40 dengan MAE ±6 tahun sudah termasuk wajar dan re
 2. Pastikan folder dataset:
    /content/drive/MyDrive/ML/
 
-  Drive Saya/
+ Drive Saya/
 ├── ML/
 │   ├── midterm-regresi-dataset.csv        # Dataset (515,345 lagu)
 │   ├── improved_music_model.h5            # Model trained
