@@ -124,20 +124,18 @@ Oleh karena itu, **R² ≈ 0.40 dengan MAE ±6 tahun sudah termasuk wajar dan re
 └── Colab Notebooks/            
     └── Music_Year_Prediction_Neural_Network.ipynb
 3. Jalankan cell satu per satu:
-
     - Notebook disusun secara pipeline end-to-end
 
-    -Waktu eksekusi: ~21 menit (61 epochs dengan early stopping)
+    - Waktu eksekusi: ~21 menit (61 epochs dengan early stopping)
 
-    -Training speed: 4-5ms/step dengan GPU
+    - Training speed: 4-5ms/step dengan GPU
 
-    -Hasil dan evaluasi:
+4. Hasil dan evaluasi:
+    - Output evaluasi (RMSE, MAE, R²) ditampilkan langsung
 
-    -Output evaluasi (RMSE, MAE, R²) ditampilkan langsung
+    - Visualisasi training history dan prediction plots
 
-    -Visualisasi training history dan prediction plots
-
-    -File model tersimpan otomatis ke Drive
+    - File model tersimpan otomatis ke Drive
 
 ## 8. Identitas Mahasiswa
 Nama : Eggy Alfan Ananta
