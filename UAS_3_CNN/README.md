@@ -139,22 +139,17 @@ test_dir = '/content/drive/MyDrive/ML/test'
 ##8. Cara Menjalankan
  - Mount Google Drive di Colab
  - Pastikan GPU aktif (Runtime > T4 GPU)
- - Jalankan notebook cell by cell:
-
+ - Jalankan notebook cell by cell
 ---
-
 ##9. Kesimpulan
  - Pipeline klasifikasi 31 spesies ikan berhasil dibangun
  - Transfer Learning mencapai 93.75% accuracy (excellent untuk 31 kelas)
  - Auto-checkpoint system optimal untuk resume training
  - Class weights mengatasi imbalanced dataset
  - Model siap untuk deployment
-
 ---
 10. Identitas Mahasiswa
 
 Nama: Eggy Alfan Ananta
-
 Kelas: TK4602
-
 NIM: 1103223194
