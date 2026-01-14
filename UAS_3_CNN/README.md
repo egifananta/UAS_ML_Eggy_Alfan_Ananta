@@ -151,5 +151,7 @@ test_dir = '/content/drive/MyDrive/ML/test'
 10. Identitas Mahasiswa
 
 Nama: Eggy Alfan Ananta
+
 Kelas: TK4602
+
 NIM: 1103223194
